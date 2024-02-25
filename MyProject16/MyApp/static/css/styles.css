@@ -1,0 +1,111 @@
+.mma {
+  display: flex;
+  color: black;
+  background: white;
+  height: 50px;
+  min-width: 1366px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bb {
+  margin-left: 20px;
+}
+.kk {
+  width: 50px;
+  height: 50px;
+  background: #f2de02;
+  margin-left: 50px;
+  border: 1px solid yellow;
+}
+.km {
+  width: 400px;
+  margin-left: 40px;
+  border: 2px solid yellow;
+}
+.kl {
+  background: #f2de02;
+  border: 2px;
+  width: 80px;
+}
+.burger {
+  display: flex;
+  list-style-type: none;
+}
+.hh{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.gg{
+  margin-left: 30px;
+}
+.mm{
+  margin-left: 20px;
+}
+.mg{
+  margin-left: 20px;
+}
+.ff {
+  margin-left: 40px;
+}
+.sc {
+  background: #ffffff;
+  text-align: left;
+  width: 200px;
+  height: 200px;
+}
+.cena {
+  color: green;
+  font-family: Arial;
+}
+.sss {
+  display: none;
+  width: 80px;
+  height: 70px;
+  box-shadow: 0px 0px 10px 1px;
+}
+.fg {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px
+
+}
+* {
+  max-width:
+}
+.ll {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+}
+.fot {
+  background: #dedcdc;
+  height: 200px;
+  margin-top: 50px;
+  width: 100%;
+  background-size: 100% auto;
+  position: relative
+
+
+}
+.rig {
+  width: 600px;
+  color: black;
+}
+.uu {
+  margin-left: 100px;
+  padding: 2px;
+}
+.ty {
+  margin-left: 100px;
+  padding: 2px;
+}
+.left {
+  display: flex;
+}
+html, body {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
