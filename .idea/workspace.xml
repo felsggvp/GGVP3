@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54385fd7-fe01-483c-9117-228a2830d6ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProject16/MyApp/templates/oguzik.html" afterDir="false" />
+    <list default="true" id="54385fd7-fe01-483c-9117-228a2830d6ab" name="Default Changelist" comment="ggvp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject16/MyApp/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject16/MyApp/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProject16/MyApp/templates/hello_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject16/MyApp/templates/hello_world.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProject16/MyApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject16/MyApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject16/MyApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject16/MyApp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2baU6T9F5gSTFDhqUkxYAT3IB2L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,14 +46,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="A:\WEB\Tanasiychuk\project\MyProject16\MyApp\temmplates" />
@@ -65,6 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706452507996</updated>
+      <workItem from="1714922671697" duration="279000" />
+      <workItem from="1715524191392" duration="2546000" />
     </task>
     <task id="LOCAL-00001" summary="ggvp">
       <created>1708270609772</created>
@@ -75,6 +81,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
